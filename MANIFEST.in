@@ -1,2 +1,2 @@
-include *.rst LISENCE
+include *.rst LICENSE
 recursive-include polist *.py
