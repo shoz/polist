@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name='polist',
-    version='0.0.1',
+    version='0.0.2',
     description='polist, partially ordered list',
     long_description=readme(),
     classifiers=[
