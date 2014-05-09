@@ -7,7 +7,7 @@ def readme():
 setup(
     name='polist',
     version='0.0.1',
-    description='polist, partially ordered list'
+    description='polist, partially ordered list',
     long_description=readme(),
     classifiers=[
         'Development Status :: 1 - Planning',
