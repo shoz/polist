@@ -1,4 +1,5 @@
-** polist, partially ordered list
+polist, partially ordered list
+=========
 
 .. sourcecode:: python
 
